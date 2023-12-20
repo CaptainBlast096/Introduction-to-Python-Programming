@@ -1,0 +1,12 @@
+a| Number of Occurrences 3
+if| Number of Occurrences 1
+is| Number of Occurrences 1
+of| Number of Occurrences 4
+peck| Number of Occurrences 4
+peppers| Number of Occurrences 4
+peter| Number of Occurrences 4
+picked| Number of Occurrences 4
+pickled| Number of Occurrences 4
+piper| Number of Occurrences 4
+the| Number of Occurrences 1
+where| Number of Occurrences 1
